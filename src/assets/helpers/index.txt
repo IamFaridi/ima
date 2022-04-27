@@ -1,0 +1,23 @@
+font-thin	           font-weight: 100;
+font-extralight	       font-weight: 200;
+font-light	           font-weight: 300;
+font-normal	           font-weight: 400;
+font-medium	           font-weight: 500;
+font-semibold	       font-weight: 600;
+font-bold	           font-weight: 700;
+font-extrabold	       font-weight: 800;
+font-black	           font-weight: 900;
+fontSize: {
+        'xs': '.75rem',
+        'sm': '.875rem',
+        'tiny': '.875rem',
+        'base': '1rem',
+        'lg': '1.125rem',
+        'xl': '1.25rem',
+        '2xl': '1.5rem',
+        '3xl': '1.875rem',
+        '4xl': '2.25rem',
+        '5xl': '3rem',
+        '6xl': '4rem',
+        '7xl': '5rem',
+      }

@@ -1,0 +1,6 @@
+export enum SelectConstants {
+    SELECT_ALL = 'SELECT_ALL',
+    SELECT_ONE = 'SELECT_ONE',
+    UNSELECT_ONE = 'UNSELECT_ONE',
+    UNSELECT_ALL = 'UNSELECT_ALL',
+}

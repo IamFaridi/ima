@@ -1,0 +1,5 @@
+export enum ModalConstants {
+    SET_MODAL_CONTENT = 'SET_MODAL_CONTENT',
+    SET_MODAL_VISIBILITY = 'SET_MODAL_VISIBILITY',
+    DEFAULT = 'DEFAULT',
+}
